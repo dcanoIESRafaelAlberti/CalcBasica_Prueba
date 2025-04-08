@@ -2,7 +2,20 @@
 
 ---
 
-## Enunciado de la Práctica: Gestión de Cálculos con Logs y Argumentos
+## Práctica Parte 1: Gestión de Cálculos con Logs y Argumentos
+
+Corrige el programa de la carpeta `CalcBasicaConErrorACorregir` para que funcione correctamente.
+
+1. Crea tu propio proyecto (Gradle) y copia el código de la carpeta anterior.
+2. Crea también un repositorio **PÚBLICO** y agrega el enlace a continuación:
+   * `Edita este fichero y pega a continuación el enlace a tu repo` -> 
+4. Ejecuta el programa y observa el error que se produce.
+5. Depura el programa para encontrar el problema.
+6. Dale una solución para que ejecute de forma correcta y comprueba que funciona como se pedía originalmente la práctica `CalcBasica`.
+
+---
+
+## Práctica Parte 2: Gestión de Cálculos con Logs y Argumentos
 
 ### Título:
 **Desarrollo de una calculadora básica con soporte de argumentos y sistema de registro (log)**
@@ -11,6 +24,8 @@
 Crear una aplicación Kotlin basada en consola que implemente operaciones aritméticas básicas utilizando una arquitectura modular y principios de diseño orientados a objetos (POO) y principios SOLID. Además, gestionará argumentos por línea de comandos y mantendrá un registro de las operaciones realizadas en un sistema de logs.
 
 ### Requisitos funcionales:
+
+Podéis utilizar vuestro propio código de `CalcBasica` o el anterior *(una vez corregido)* que os he pasado.
 
 1. **Comportamiento según los argumentos de entrada:**
    - **Sin argumentos:**  
