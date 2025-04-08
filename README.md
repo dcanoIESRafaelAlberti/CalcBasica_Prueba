@@ -1,4 +1,4 @@
-# Prueba usando CalBasica
+# Prueba usando CalcBasica
 
 ---
 
